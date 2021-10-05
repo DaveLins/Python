@@ -1,3 +1,5 @@
+# Para funcionar, deixe seu navegador na primeira opção dos seus programas.
+
 import pyautogui
 
 from time import sleep
