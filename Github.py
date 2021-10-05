@@ -21,7 +21,7 @@ info = {
 
     "authenticity_token": tok["value"],
     "login": "jamaicaserj@gmail.com", 
-    "password": "193Davi8#"
+    "password": "senha aqui"
 
 }
 
