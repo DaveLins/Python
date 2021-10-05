@@ -20,7 +20,7 @@ tok = site.find("input", attrs = {"name": "authenticity_token"})
 info = {
 
     "authenticity_token": tok["value"],
-    "login": "jamaicaserj@gmail.com", 
+    "login": "e-mail aqui", 
     "password": "senha aqui"
 
 }
